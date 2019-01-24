@@ -1,0 +1,1712 @@
+# Translation of Plugins - AddonPayments - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - AddonPayments - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-16 08:04:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - AddonPayments - Stable (latest release)\n"
+
+#: core/visual-composer/visual-composer.php:24
+msgid "Price"
+msgstr "Precio"
+
+#: core/visual-composer/visual-composer.php:32
+msgid "Product SKU"
+msgstr "SKU del producto"
+
+#. Plugin Name of the plugin/theme
+msgid "addonpayments"
+msgstr "addonpayments"
+
+#. #-#-#-#-#  addonpayments-code.pot (addonpayments 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  addonpayments-code.pot (addonpayments 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.addonpayments.com/"
+msgstr "http://www.addonpayments.com/"
+
+#. Description of the plugin/theme
+msgid "The official AddonPayments Plugin for WordPress accepts electronic transactions to your WordPress with a shortcode."
+msgstr "El plugin oficial de AddonPayments para WordPress, acepta transacciones electrónicas en tu WordPress con un shortcode."
+
+#: core/visual-composer/visual-composer.php:16
+msgid "ID"
+msgstr "ID"
+
+#: core/visual-composer/visual-composer.php:12
+msgid "Gateways"
+msgstr "Pasarelas"
+
+#. #-#-#-#-#  addonpayments-code.pot (addonpayments 1.0.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: core/visual-composer/visual-composer.php:8
+msgid "AddonPayments"
+msgstr "AddonPayments"
+
+#: core/pages/settings.php:33
+msgid "AddonPayments Front-End Settings"
+msgstr "Ajustes de AddonPayments para la tienda"
+
+#: core/pages/settings.php:28
+msgid "AddonPayments Advanced Settings"
+msgstr "Ajustes avanzados de AddonPayments"
+
+#: core/pages/settings.php:18
+msgid "Front-End Settings"
+msgstr "Ajustes de la tienda"
+
+#: core/pages/settings.php:17
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: core/pages/settings.php:16
+msgid "Basic Settings"
+msgstr "Ajustes básicos"
+
+#: core/pages/settings.php:7 core/pages/settings.php:23
+msgid "AddonPayments Settings"
+msgstr "Ajustes de AddonPayments"
+
+#: core/pages/setting-options/frontend-settings.php:169
+msgid "AddonPayment Language"
+msgstr "Idioma de AddonPayments"
+
+#: core/pages/setting-options/frontend-settings.php:160
+msgid "Show price with Tax"
+msgstr "Mostrar el precio con impuestos"
+
+#: core/pages/setting-options/frontend-settings.php:158
+msgid "Select Billing Fields to show"
+msgstr "Elige qué campos de facturación mostrar"
+
+#: core/pages/setting-options/frontend-settings.php:157
+msgid "Select Shipping Fields to show"
+msgstr "Elige qué campos de envío mostrar"
+
+#: core/pages/setting-options/frontend-settings.php:156
+msgid "Currency Sign position"
+msgstr "Posición del símbolo de la moneda"
+
+#: core/visual-composer/visual-composer.php:27
+msgid "The product price without currency sign, for example, 30.5"
+msgstr "El precio del producto sin el símbolo de la moneda, por ejemplo, 30.5"
+
+#: core/pages/setting-options/frontend-settings.php:155
+msgid "Currency Sign EX: $"
+msgstr "Símbolo de la moneda. Ej: €"
+
+#: core/pages/setting-options/frontend-settings.php:105
+#: core/pages/setting-options/frontend-settings.php:168
+msgid "Text Pay Now Button at AddonPayments (Empty for default)"
+msgstr "Texto del botón Pagar Ahora de  AddonPayments (vacío por defecto)"
+
+#: core/pages/setting-options/frontend-settings.php:47
+msgid "Billing Country"
+msgstr "País de facturación"
+
+#: core/pages/setting-options/frontend-settings.php:46
+msgid "Billing NIC / TIC / VAT"
+msgstr "NIC / TIC / VAT de facturación"
+
+#: core/pages/setting-options/frontend-settings.php:24
+msgid "Shipping Country"
+msgstr "País de envío"
+
+#: core/pages/setting-options/frontend-settings.php:23
+msgid "Shipping Full Name"
+msgstr "Nombre completo de envío"
+
+#: core/pages/setting-options/frontend-settings.php:15
+msgid "Currency Sign"
+msgstr "Símbolo de moneda"
+
+#: core/pages/setting-options/basic-settings.php:223
+msgid "Currency"
+msgstr "Moneda"
+
+#: core/pages/setting-options/basic-settings.php:220
+msgid "Merchand ID - Test"
+msgstr "Id de vendedor - Test"
+
+#: core/pages/setting-options/basic-settings.php:217
+msgid "Merchand ID - Live"
+msgstr "Id de vendedor - Real"
+
+#: core/pages/setting-options/basic-settings.php:29
+#: core/pages/setting-options/basic-settings.php:222
+msgid "Shared Secret - Test"
+msgstr "Secreto compartido - Test"
+
+#: core/pages/setting-options/basic-settings.php:25
+#: core/pages/setting-options/basic-settings.php:221
+msgid "Account - Test"
+msgstr "Cuenta - Test"
+
+#: core/pages/setting-options/basic-settings.php:224
+msgid "AUTO SETTLE FLAG"
+msgstr "AUTO SETTLE FLAG"
+
+#: core/pages/setting-options/basic-settings.php:21
+msgid "Merchant ID - Test"
+msgstr "Id de vendedor - Test"
+
+#: core/pages/setting-options/basic-settings.php:17
+#: core/pages/setting-options/basic-settings.php:219
+msgid "Shared Secret - Live"
+msgstr "Secreto compartido - Real"
+
+#: core/pages/setting-options/basic-settings.php:13
+#: core/pages/setting-options/basic-settings.php:218
+msgid "Account - Live"
+msgstr "Cuenta - Real"
+
+#: core/pages/setting-options/basic-settings.php:9
+msgid "Merchant ID - Live"
+msgstr "Id de vendedor - Real"
+
+#: core/pages/setting-options/basic-settings.php:5
+#: core/pages/setting-options/basic-settings.php:216
+msgid "Test Mode"
+msgstr "Modo test"
+
+#: core/pages/setting-options/advanced-settings.php:583
+msgid "Countries to apply Retentions"
+msgstr "Países a los que aplicar retenciones"
+
+#: core/pages/setting-options/frontend-settings.php:101
+#: core/pages/setting-options/frontend-settings.php:167
+msgid "Text Continue to Pay Button (Empty for default)"
+msgstr "Texto del botón Continuar al Pago (vacío para predeterminado)"
+
+#: core/pages/setting-options/frontend-settings.php:97
+#: core/pages/setting-options/frontend-settings.php:166
+msgid "Text Pay Now Button (Empty for default)"
+msgstr "Texto del botón Pagar Ahora (vacío para predeterminado)"
+
+#: core/pages/setting-options/frontend-settings.php:93
+#: core/pages/setting-options/frontend-settings.php:165
+msgid "Text Buy Now Button (Empty for default)"
+msgstr "Texto del botón Comprar Ahora (vacío para predeterminado)"
+
+#: core/pages/setting-options/frontend-settings.php:89
+#: core/pages/setting-options/frontend-settings.php:164
+msgid "Text active retention (Empty for default)"
+msgstr "Texto de retención activa (vacío para predeterminado)"
+
+#: core/pages/setting-options/frontend-settings.php:80
+#: core/pages/setting-options/frontend-settings.php:162
+msgid "Text after price without Tax (Empty for default)"
+msgstr "Texto después de precio sin impuestos (vacío para predeterminado)"
+
+#: core/pages/setting-options/frontend-settings.php:85
+#: core/pages/setting-options/frontend-settings.php:163
+msgid "Show text retention"
+msgstr "Mostrar texto de retención"
+
+#: core/pages/setting-options/frontend-settings.php:72
+msgid "Show price with tax"
+msgstr "Mostrar precio con impuestos"
+
+#: core/pages/setting-options/frontend-settings.php:76
+#: core/pages/setting-options/frontend-settings.php:161
+msgid "Text after price with Tax (Empty for default)"
+msgstr "Texto detrás del precio con impuestos (vacío para predeterminado)"
+
+#: core/pages/setting-options/advanced-settings.php:580
+msgid "I will add prices "
+msgstr "Voy a añadir los precios"
+
+#: core/pages/setting-options/advanced-settings.php:23
+msgid "With Tax"
+msgstr "Con impuestos"
+
+#: core/pages/setting-options/advanced-settings.php:22
+msgid "Without Tax"
+msgstr "Sin impuestos"
+
+#: core/pages/setting-options/advanced-settings.php:15
+#: core/pages/setting-options/advanced-settings.php:577
+msgid "Activate Tax"
+msgstr "Activar impuestos"
+
+#: core/functions/functions.php:1288
+msgid "Price: "
+msgstr "Precio:"
+
+#: core/pages/setting-options/advanced-settings.php:568
+#: core/pages/setting-options/advanced-settings.php:586
+msgid "Apply Retention to Self Employed"
+msgstr "Aplicar retenciones a los autónomos"
+
+#: core/pages/setting-options/advanced-settings.php:563
+#: core/pages/setting-options/advanced-settings.php:585
+msgid "Apply Retention to Business"
+msgstr "Aplicar retenciones a los negocios"
+
+#: core/pages/setting-options/advanced-settings.php:558
+#: core/pages/setting-options/advanced-settings.php:584
+msgid "Apply Retention to Private User"
+msgstr "Aplicar retenciones a los particulares"
+
+#: core/pages/setting-options/advanced-settings.php:295
+#: core/pages/setting-options/advanced-settings.php:582
+msgid "% Retention to apply"
+msgstr "% de retención que aplicar"
+
+#: core/pages/setting-options/advanced-settings.php:576
+#: core/pages/setting-options/frontend-settings.php:22
+msgid "User Type"
+msgstr "Tipo de usuario"
+
+#: core/pages/setting-options/advanced-settings.php:579
+msgid "Countries to apply tax"
+msgstr "Países a los que aplicar impuestos"
+
+#: core/pages/setting-options/frontend-settings.php:67
+#: core/pages/setting-options/frontend-settings.php:159
+msgid "Show Comment for users Order"
+msgstr "Mostrar comentarios de los pedidos de los usuarios"
+
+#: core/pages/setting-options/advanced-settings.php:28
+#: core/pages/setting-options/advanced-settings.php:578
+msgid "% Tax to apply"
+msgstr "% de impuestos que aplicar"
+
+#: core/pages/setting-options/advanced-settings.php:28
+#: core/pages/setting-options/advanced-settings.php:295
+msgid "EX: 21 or 15.5"
+msgstr "Ej: 21 or 15.5"
+
+#: core/pages/setting-options/advanced-settings.php:291
+#: core/pages/setting-options/advanced-settings.php:581
+msgid "Apply Retention"
+msgstr "Aplicar retención"
+
+#: core/functions/functions.php:1262
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: core/functions/functions.php:1244
+msgid "Billing Data"
+msgstr "Datos de facturación"
+
+#: core/functions/functions.php:1222
+msgid "Shipping Data"
+msgstr "Datos de envío"
+
+#: core/functions/functions.php:1210
+#: core/pages/setting-options/frontend-settings.php:52
+msgid "Billing Phone"
+msgstr "Teléfono de facturación"
+
+#: core/functions/functions.php:1204
+#: core/pages/setting-options/frontend-settings.php:51
+msgid "Billing Email"
+msgstr "Correo electrónico de facturación"
+
+#: core/functions/functions.php:1198
+#: core/pages/setting-options/frontend-settings.php:50
+msgid "Billing Address"
+msgstr "Dirección de facturación"
+
+#: core/functions/functions.php:1192
+#: core/pages/setting-options/frontend-settings.php:49
+msgid "Billing Postcode"
+msgstr "Código postal de facturación"
+
+#: core/functions/functions.php:1186
+#: core/pages/setting-options/frontend-settings.php:48
+msgid "Billing State"
+msgstr "Estado de facturación"
+
+#: core/functions/functions.php:928
+#: core/pages/setting-options/frontend-settings.php:53
+msgid "Billing City"
+msgstr "Ciudad de Facturación"
+
+#: core/functions/functions.php:922
+msgid "NIC, TIC, VAT Number"
+msgstr "Número de NIC, TIC, VAT"
+
+#: core/functions/functions.php:916
+#: core/pages/setting-options/frontend-settings.php:45
+msgid "Billing Full Name"
+msgstr "Nombre completo de facturación"
+
+#: core/functions/functions.php:908
+#: core/pages/setting-options/frontend-settings.php:29
+msgid "Shipping Phone"
+msgstr "Teléfono de envío"
+
+#: core/functions/functions.php:902
+#: core/pages/setting-options/frontend-settings.php:28
+msgid "Shipping Email"
+msgstr "Correo electrónico de facturación"
+
+#: core/functions/functions.php:896
+#: core/pages/setting-options/frontend-settings.php:27
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+#: core/functions/functions.php:890
+#: core/pages/setting-options/frontend-settings.php:26
+msgid "Shipping Postcode"
+msgstr "Código postal de envío"
+
+#: core/functions/functions.php:1273
+msgid "Comment for your Order"
+msgstr "Comentario de tu pedido"
+
+#: core/functions/functions.php:1274
+msgid "Add a comment for your order"
+msgstr "Añade un comentario a tu pedido"
+
+#: core/functions/functions.php:1268
+msgid "Pay Now with AddonPayments"
+msgstr "Pagar Ahora con AddonPayments"
+
+#: core/visual-composer/visual-composer.php:35
+msgid "Add the SKU Product, example SKU0123. This is a reference for this product so has to be unique"
+msgstr "Añade el SKU del producto, por ejemplo  SKU0123. Es una referencia para este producto, así que tiene que ser único"
+
+#: core/visual-composer/visual-composer.php:19
+msgid "Add an ID for this product block. This is mandatory if you add more than one product and has to be unique on this page"
+msgstr "Añade un ID para este bloque de producto. Es obligatorio si añades más de un producto y tiene que ser único en esta página"
+
+#: core/functions/functions.php:884
+#: core/pages/setting-options/frontend-settings.php:25
+msgid "Shipping State"
+msgstr "Estado de envío"
+
+#: core/functions/functions.php:877 core/functions/functions.php:1179
+msgid "Zimbabwe"
+msgstr "Zimbabue"
+
+#: core/functions/functions.php:876 core/functions/functions.php:1178
+msgid "Zambia"
+msgstr "Zambia"
+
+#: core/functions/functions.php:875 core/functions/functions.php:1177
+msgid "Yemen"
+msgstr "Yemen"
+
+#: core/functions/functions.php:874 core/functions/functions.php:1176
+msgid "Western Sahara"
+msgstr "Sáhara Occidental"
+
+#: core/functions/functions.php:873 core/functions/functions.php:1175
+msgid "Wallis And Futuna"
+msgstr "Wallis y Futuna"
+
+#: core/functions/functions.php:872 core/functions/functions.php:1174
+msgid "Virgin Islands, U.S."
+msgstr "Islas Vírgenes de Estados Unidos (EEUU)"
+
+#: core/functions/functions.php:871 core/functions/functions.php:1173
+msgid "Virgin Islands, British"
+msgstr "Islas Vírgenes Británicas"
+
+#: core/functions/functions.php:870 core/functions/functions.php:1172
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: core/functions/functions.php:869 core/functions/functions.php:1171
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: core/functions/functions.php:868 core/functions/functions.php:1170
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: core/functions/functions.php:867 core/functions/functions.php:1169
+msgid "Uzbekistan"
+msgstr "Uzbekistán"
+
+#: core/functions/functions.php:866 core/functions/functions.php:1168
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: core/functions/functions.php:865 core/functions/functions.php:1167
+msgid "United States Outlying Islands"
+msgstr "Islas Menores Alejadas de Estados Unidos"
+
+#: core/functions/functions.php:864 core/functions/functions.php:1166
+msgid "United States"
+msgstr "Estados Unidos"
+
+#: core/functions/functions.php:863 core/functions/functions.php:1165
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+#: core/functions/functions.php:862 core/functions/functions.php:1164
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+#: core/functions/functions.php:861 core/functions/functions.php:1163
+msgid "Ukraine"
+msgstr "Ucrania"
+
+#: core/functions/functions.php:860 core/functions/functions.php:1162
+msgid "Uganda"
+msgstr "Uganda"
+
+#: core/functions/functions.php:859 core/functions/functions.php:1161
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: core/functions/functions.php:858 core/functions/functions.php:1160
+msgid "Turks And Caicos Islands"
+msgstr "Islas Turcas y Caicos"
+
+#: core/functions/functions.php:857 core/functions/functions.php:1159
+msgid "Turkmenistan"
+msgstr "Turkmenistán"
+
+#: core/functions/functions.php:856 core/functions/functions.php:1158
+msgid "Turkey"
+msgstr "Turquía"
+
+#: core/functions/functions.php:855 core/functions/functions.php:1157
+msgid "Tunisia"
+msgstr "Túnez"
+
+#: core/functions/functions.php:854 core/functions/functions.php:1156
+msgid "Trinidad And Tobago"
+msgstr "Trinidad y Tobago"
+
+#: core/functions/functions.php:853 core/functions/functions.php:1155
+msgid "Tonga"
+msgstr "Tonga"
+
+#: core/functions/functions.php:852 core/functions/functions.php:1154
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: core/functions/functions.php:851 core/functions/functions.php:1153
+msgid "Togo"
+msgstr "Togo"
+
+#: core/functions/functions.php:850 core/functions/functions.php:1152
+msgid "Timor-Leste"
+msgstr "Timor Oriental"
+
+#: core/functions/functions.php:849 core/functions/functions.php:1151
+msgid "Thailand"
+msgstr "Tailandia"
+
+#: core/functions/functions.php:848 core/functions/functions.php:1150
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: core/functions/functions.php:847 core/functions/functions.php:1149
+msgid "Tajikistan"
+msgstr "Tayikistán"
+
+#: core/functions/functions.php:846 core/functions/functions.php:1148
+msgid "Taiwan"
+msgstr "Taiwán"
+
+#: core/functions/functions.php:845 core/functions/functions.php:1147
+msgid "Syrian Arab Republic"
+msgstr "República Árabe Siria"
+
+#: core/functions/functions.php:844 core/functions/functions.php:1146
+msgid "Switzerland"
+msgstr "Suiza"
+
+#: core/functions/functions.php:843 core/functions/functions.php:1145
+msgid "Sweden"
+msgstr "Suecia"
+
+#: core/functions/functions.php:842 core/functions/functions.php:1144
+msgid "Swaziland"
+msgstr "Suazilandia"
+
+#: core/functions/functions.php:841 core/functions/functions.php:1143
+msgid "Svalbard And Jan Mayen"
+msgstr "Svalbard y Jan Mayen"
+
+#: core/functions/functions.php:840 core/functions/functions.php:1142
+msgid "Suriname"
+msgstr "Surinam"
+
+#: core/functions/functions.php:839 core/functions/functions.php:1141
+msgid "Sudan"
+msgstr "Sudán"
+
+#: core/functions/functions.php:838 core/functions/functions.php:1140
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: core/functions/functions.php:837 core/functions/functions.php:1139
+msgid "Spain"
+msgstr "España"
+
+#: core/functions/functions.php:836 core/functions/functions.php:1138
+msgid "South Georgia And Sandwich Isl."
+msgstr "Georgia del sur e Islas Sandwich"
+
+#: core/functions/functions.php:835 core/functions/functions.php:1137
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+#: core/functions/functions.php:834 core/functions/functions.php:1136
+msgid "Somalia"
+msgstr "Somalia"
+
+#: core/functions/functions.php:833 core/functions/functions.php:1135
+msgid "Solomon Islands"
+msgstr "Islas Salomón"
+
+#: core/functions/functions.php:832 core/functions/functions.php:1134
+msgid "Slovenia"
+msgstr "Eslovenia"
+
+#: core/functions/functions.php:831 core/functions/functions.php:1133
+msgid "Slovakia"
+msgstr "Eslovaquia"
+
+#: core/functions/functions.php:830 core/functions/functions.php:1132
+msgid "Singapore"
+msgstr "Singapur"
+
+#: core/functions/functions.php:829 core/functions/functions.php:1131
+msgid "Sierra Leone"
+msgstr "Sierra Leona"
+
+#: core/functions/functions.php:828 core/functions/functions.php:1130
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: core/functions/functions.php:827 core/functions/functions.php:1129
+msgid "Serbia"
+msgstr "Serbia"
+
+#: core/functions/functions.php:826 core/functions/functions.php:1128
+msgid "Senegal"
+msgstr "Senegal"
+
+#: core/functions/functions.php:825 core/functions/functions.php:1127
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+#: core/functions/functions.php:824 core/functions/functions.php:1126
+msgid "Sao Tome And Principe"
+msgstr "Santo Tomé y Príncipe"
+
+#: core/functions/functions.php:823 core/functions/functions.php:1125
+msgid "San Marino"
+msgstr "San Marino"
+
+#: core/functions/functions.php:822 core/functions/functions.php:1124
+msgid "Samoa"
+msgstr "Samoa"
+
+#: core/functions/functions.php:821 core/functions/functions.php:1123
+msgid "Saint Vincent And Grenadines"
+msgstr "San Vicente y Granada"
+
+#: core/functions/functions.php:820 core/functions/functions.php:1122
+msgid "Saint Pierre And Miquelon"
+msgstr "Saint Pierre y Miquelon"
+
+#: core/functions/functions.php:819 core/functions/functions.php:1121
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: core/functions/functions.php:818 core/functions/functions.php:1120
+msgid "Saint Lucia"
+msgstr "Santa Lucía"
+
+#: core/functions/functions.php:817 core/functions/functions.php:1119
+msgid "Saint Kitts And Nevis"
+msgstr "San Cristóbal y Nieves"
+
+#: core/functions/functions.php:816 core/functions/functions.php:1118
+msgid "Saint Helena"
+msgstr "Isla Santa Elena"
+
+#: core/functions/functions.php:815 core/functions/functions.php:1117
+msgid "Saint Barthelemy"
+msgstr "San Bartolomé"
+
+#: core/functions/functions.php:814 core/functions/functions.php:1116
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: core/functions/functions.php:813 core/functions/functions.php:1115
+msgid "Russian Federation"
+msgstr "Federación Rusa"
+
+#: core/functions/functions.php:812 core/functions/functions.php:1114
+msgid "Romania"
+msgstr "Rumania"
+
+#: core/functions/functions.php:811 core/functions/functions.php:1113
+msgid "Reunion"
+msgstr "Reunión"
+
+#: core/functions/functions.php:810 core/functions/functions.php:1112
+msgid "Qatar"
+msgstr "Qatar"
+
+#: core/functions/functions.php:809 core/functions/functions.php:1111
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: core/functions/functions.php:808 core/functions/functions.php:1110
+msgid "Portugal"
+msgstr "Portugal"
+
+#: core/functions/functions.php:807 core/functions/functions.php:1109
+msgid "Poland"
+msgstr "Polonia"
+
+#: core/functions/functions.php:806 core/functions/functions.php:1108
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: core/functions/functions.php:805 core/functions/functions.php:1107
+msgid "Philippines"
+msgstr "Filipinas"
+
+#: core/functions/functions.php:804 core/functions/functions.php:1106
+msgid "Peru"
+msgstr "Perú"
+
+#: core/functions/functions.php:803 core/functions/functions.php:1105
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: core/functions/functions.php:802 core/functions/functions.php:1104
+msgid "Papua New Guinea"
+msgstr "Papúa Nueva Guinea"
+
+#: core/functions/functions.php:801 core/functions/functions.php:1103
+msgid "Panama"
+msgstr "Panamá"
+
+#: core/functions/functions.php:800 core/functions/functions.php:1102
+msgid "Palestinian Territory, Occupied"
+msgstr "Territorio Palestino, Ocupado"
+
+#: core/functions/functions.php:799 core/functions/functions.php:1101
+msgid "Palau"
+msgstr "Palau"
+
+#: core/functions/functions.php:798 core/functions/functions.php:1100
+msgid "Pakistan"
+msgstr "Pakistán"
+
+#: core/functions/functions.php:797 core/functions/functions.php:1099
+msgid "Oman"
+msgstr "Omán"
+
+#: core/functions/functions.php:796 core/functions/functions.php:1098
+msgid "Norway"
+msgstr "Noruega"
+
+#: core/functions/functions.php:795 core/functions/functions.php:1097
+msgid "Northern Mariana Islands"
+msgstr "Islas Marianas del Norte"
+
+#: core/functions/functions.php:794 core/functions/functions.php:1096
+msgid "Norfolk Island"
+msgstr "Isla Norfolk"
+
+#: core/functions/functions.php:793 core/functions/functions.php:1095
+msgid "Niue"
+msgstr "Niue"
+
+#: core/functions/functions.php:792 core/functions/functions.php:1094
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: core/functions/functions.php:791 core/functions/functions.php:1093
+msgid "Niger"
+msgstr "Níger"
+
+#: core/functions/functions.php:790 core/functions/functions.php:1092
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: core/functions/functions.php:789 core/functions/functions.php:1091
+msgid "New Zealand"
+msgstr "Nueva Zelanda"
+
+#: core/functions/functions.php:788 core/functions/functions.php:1090
+msgid "New Caledonia"
+msgstr "Nueva Caledonia"
+
+#: core/functions/functions.php:787 core/functions/functions.php:1089
+msgid "Netherlands Antilles"
+msgstr "Antillas Holandesas"
+
+#: core/functions/functions.php:786 core/functions/functions.php:1088
+msgid "Netherlands"
+msgstr "Países Bajos"
+
+#: core/functions/functions.php:785 core/functions/functions.php:1087
+msgid "Nepal"
+msgstr "Nepal"
+
+#: core/functions/functions.php:784 core/functions/functions.php:1086
+msgid "Nauru"
+msgstr "Nauru"
+
+#: core/functions/functions.php:783 core/functions/functions.php:1085
+msgid "Namibia"
+msgstr "Namibia"
+
+#: core/functions/functions.php:782 core/functions/functions.php:1084
+msgid "Myanmar"
+msgstr "Birmania"
+
+#: core/functions/functions.php:781 core/functions/functions.php:1083
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: core/functions/functions.php:780 core/functions/functions.php:1082
+msgid "Morocco"
+msgstr "Marruecos"
+
+#: core/functions/functions.php:779 core/functions/functions.php:1081
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: core/functions/functions.php:778 core/functions/functions.php:1080
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: core/functions/functions.php:777 core/functions/functions.php:1079
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: core/functions/functions.php:776 core/functions/functions.php:1078
+msgid "Monaco"
+msgstr "Mónaco"
+
+#: core/functions/functions.php:775 core/functions/functions.php:1077
+msgid "Moldova"
+msgstr "Moldavia"
+
+#: core/functions/functions.php:774 core/functions/functions.php:1076
+msgid "Micronesia, Federated States Of"
+msgstr "Estados Federados de Micronesia"
+
+#: core/functions/functions.php:773 core/functions/functions.php:1075
+msgid "Mexico"
+msgstr "México"
+
+#: core/functions/functions.php:772 core/functions/functions.php:1074
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: core/functions/functions.php:771 core/functions/functions.php:1073
+msgid "Mauritius"
+msgstr "Mauricio"
+
+#: core/functions/functions.php:770 core/functions/functions.php:1072
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: core/functions/functions.php:769 core/functions/functions.php:1071
+msgid "Martinique"
+msgstr "Martinica"
+
+#: core/functions/functions.php:768 core/functions/functions.php:1070
+msgid "Marshall Islands"
+msgstr "Islas Marshall"
+
+#: core/functions/functions.php:767 core/functions/functions.php:1069
+msgid "Malta"
+msgstr "Malta"
+
+#: core/functions/functions.php:766 core/functions/functions.php:1068
+msgid "Mali"
+msgstr "Malí"
+
+#: core/functions/functions.php:765 core/functions/functions.php:1067
+msgid "Maldives"
+msgstr "Maldivas"
+
+#: core/functions/functions.php:764 core/functions/functions.php:1066
+msgid "Malaysia"
+msgstr "Malasia"
+
+#: core/functions/functions.php:763 core/functions/functions.php:1065
+msgid "Malawi"
+msgstr "Malaui"
+
+#: core/functions/functions.php:762 core/functions/functions.php:1064
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: core/functions/functions.php:761 core/functions/functions.php:1063
+msgid "Macedonia"
+msgstr "República de Macedonia"
+
+#: core/functions/functions.php:760 core/functions/functions.php:1062
+msgid "Macao"
+msgstr "Macao"
+
+#: core/functions/functions.php:759 core/functions/functions.php:1061
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+#: core/functions/functions.php:758 core/functions/functions.php:1060
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: core/functions/functions.php:757 core/functions/functions.php:1059
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: core/functions/functions.php:756 core/functions/functions.php:1058
+msgid "Libyan Arab Jamahiriya"
+msgstr "Jamahiriya Árabe Libia"
+
+#: core/functions/functions.php:755 core/functions/functions.php:1057
+msgid "Liberia"
+msgstr "Liberia"
+
+#: core/functions/functions.php:754 core/functions/functions.php:1056
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: core/functions/functions.php:753 core/functions/functions.php:1055
+msgid "Lebanon"
+msgstr "Líbano"
+
+#: core/functions/functions.php:752 core/functions/functions.php:1054
+msgid "Latvia"
+msgstr "Letonia"
+
+#: core/functions/functions.php:751 core/functions/functions.php:1053
+msgid "Lao People's Democratic Republic"
+msgstr "República Democrática Popular Laos"
+
+#: core/functions/functions.php:750 core/functions/functions.php:1052
+msgid "Kyrgyzstan"
+msgstr "Kirguistán"
+
+#: core/functions/functions.php:749 core/functions/functions.php:1051
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: core/functions/functions.php:748 core/functions/functions.php:1050
+msgid "Korea"
+msgstr "Corea"
+
+#: core/functions/functions.php:747 core/functions/functions.php:1049
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: core/functions/functions.php:746 core/functions/functions.php:1048
+msgid "Kenya"
+msgstr "Kenia"
+
+#: core/functions/functions.php:745 core/functions/functions.php:1047
+msgid "Kazakhstan"
+msgstr "Kazajistán"
+
+#: core/functions/functions.php:744 core/functions/functions.php:1046
+msgid "Jordan"
+msgstr "Jordania"
+
+#: core/functions/functions.php:743 core/functions/functions.php:1045
+msgid "Jersey"
+msgstr "Jersey"
+
+#: core/functions/functions.php:742 core/functions/functions.php:1044
+msgid "Japan"
+msgstr "Japón"
+
+#: core/functions/functions.php:741 core/functions/functions.php:1043
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: core/functions/functions.php:740 core/functions/functions.php:1042
+msgid "Italy"
+msgstr "Italia"
+
+#: core/functions/functions.php:739 core/functions/functions.php:1041
+msgid "Israel"
+msgstr "Israel"
+
+#: core/functions/functions.php:738 core/functions/functions.php:1040
+msgid "Isle Of Man"
+msgstr "Isla de Man"
+
+#: core/functions/functions.php:737 core/functions/functions.php:1039
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: core/functions/functions.php:736 core/functions/functions.php:1038
+msgid "Iraq"
+msgstr "Irak"
+
+#: core/functions/functions.php:735 core/functions/functions.php:1037
+msgid "Iran, Islamic Republic Of"
+msgstr "República Islámica de Irán"
+
+#: core/functions/functions.php:734 core/functions/functions.php:1036
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: core/functions/functions.php:733 core/functions/functions.php:1035
+msgid "India"
+msgstr "India"
+
+#: core/functions/functions.php:732 core/functions/functions.php:1034
+msgid "Iceland"
+msgstr "Islandia"
+
+#: core/functions/functions.php:731 core/functions/functions.php:1033
+msgid "Hungary"
+msgstr "Hungría"
+
+#: core/functions/functions.php:730 core/functions/functions.php:1032
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: core/functions/functions.php:729 core/functions/functions.php:1031
+msgid "Honduras"
+msgstr "Honduras"
+
+#: core/functions/functions.php:728 core/functions/functions.php:1030
+msgid "Holy See (Vatican City State)"
+msgstr "Santa Sede (estado de la ciudad del Vaticano)"
+
+#: core/functions/functions.php:727 core/functions/functions.php:1029
+msgid "Heard Island & Mcdonald Islands"
+msgstr "Islas Heard y McDonald"
+
+#: core/functions/functions.php:726 core/functions/functions.php:1028
+msgid "Haiti"
+msgstr "Haití"
+
+#: core/functions/functions.php:725 core/functions/functions.php:1027
+msgid "Guyana"
+msgstr "Guyana"
+
+#: core/functions/functions.php:724 core/functions/functions.php:1026
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bisáu"
+
+#: core/functions/functions.php:723 core/functions/functions.php:1025
+msgid "Guinea"
+msgstr "Guinea"
+
+#: core/functions/functions.php:722 core/functions/functions.php:1024
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: core/functions/functions.php:721 core/functions/functions.php:1023
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: core/functions/functions.php:720 core/functions/functions.php:1022
+msgid "Guam"
+msgstr "Guam"
+
+#: core/functions/functions.php:719 core/functions/functions.php:1021
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: core/functions/functions.php:718 core/functions/functions.php:1020
+msgid "Grenada"
+msgstr "Granada"
+
+#: core/functions/functions.php:717 core/functions/functions.php:1019
+msgid "Greenland"
+msgstr "Groenlandia"
+
+#: core/functions/functions.php:716 core/functions/functions.php:1018
+msgid "Greece"
+msgstr "Grecia"
+
+#: core/functions/functions.php:715 core/functions/functions.php:1017
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: core/functions/functions.php:714 core/functions/functions.php:1016
+msgid "Ghana"
+msgstr "Ghana"
+
+#: core/functions/functions.php:713 core/functions/functions.php:1015
+msgid "Germany"
+msgstr "Alemania"
+
+#: core/functions/functions.php:712 core/functions/functions.php:1014
+msgid "Georgia"
+msgstr "Georgia"
+
+#: core/functions/functions.php:711 core/functions/functions.php:1013
+msgid "Gambia"
+msgstr "Gambia"
+
+#: core/functions/functions.php:710 core/functions/functions.php:1012
+msgid "Gabon"
+msgstr "Gabón"
+
+#: core/functions/functions.php:709 core/functions/functions.php:1011
+msgid "French Southern Territories"
+msgstr "Territorios Francéses del Sur"
+
+#: core/functions/functions.php:708 core/functions/functions.php:1010
+msgid "French Polynesia"
+msgstr "Polinesia Francesa"
+
+#: core/functions/functions.php:707 core/functions/functions.php:1009
+msgid "French Guiana"
+msgstr "Guayana Francesa"
+
+#: core/functions/functions.php:706 core/functions/functions.php:1008
+msgid "France"
+msgstr "Francia"
+
+#: core/functions/functions.php:705 core/functions/functions.php:1007
+msgid "Finland"
+msgstr "Finlandia"
+
+#: core/functions/functions.php:704 core/functions/functions.php:1006
+msgid "Fiji"
+msgstr "Fiyi"
+
+#: core/functions/functions.php:703 core/functions/functions.php:1005
+msgid "Faroe Islands"
+msgstr "Islas Feroe"
+
+#: core/functions/functions.php:702 core/functions/functions.php:1004
+msgid "Falkland Islands (Malvinas)"
+msgstr "Las Malvinas"
+
+#: core/functions/functions.php:701 core/functions/functions.php:1003
+msgid "Ethiopia"
+msgstr "Etiopía"
+
+#: core/functions/functions.php:700 core/functions/functions.php:1002
+msgid "Estonia"
+msgstr "Estonia"
+
+#: core/functions/functions.php:699 core/functions/functions.php:1001
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: core/functions/functions.php:698 core/functions/functions.php:1000
+msgid "Equatorial Guinea"
+msgstr "Guinea Ecuatorial"
+
+#: core/functions/functions.php:697 core/functions/functions.php:999
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: core/functions/functions.php:696 core/functions/functions.php:998
+msgid "Egypt"
+msgstr "Egipto"
+
+#: core/functions/functions.php:695 core/functions/functions.php:997
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: core/functions/functions.php:694 core/functions/functions.php:996
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: core/functions/functions.php:693 core/functions/functions.php:995
+msgid "Dominica"
+msgstr "Dominica"
+
+#: core/functions/functions.php:692 core/functions/functions.php:994
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: core/functions/functions.php:691 core/functions/functions.php:993
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: core/functions/functions.php:690 core/functions/functions.php:992
+msgid "Czech Republic"
+msgstr "República Checa"
+
+#: core/functions/functions.php:689 core/functions/functions.php:991
+msgid "Cyprus"
+msgstr "Chipre"
+
+#: core/functions/functions.php:688 core/functions/functions.php:990
+msgid "Cuba"
+msgstr "Cuba"
+
+#: core/functions/functions.php:687 core/functions/functions.php:989
+msgid "Croatia"
+msgstr "Croacia"
+
+#: core/functions/functions.php:686 core/functions/functions.php:988
+msgid "Cote D'Ivoire"
+msgstr "Costa de Marfil"
+
+#: core/functions/functions.php:685 core/functions/functions.php:987
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: core/functions/functions.php:684 core/functions/functions.php:986
+msgid "Cook Islands"
+msgstr "Islas Cook"
+
+#: core/functions/functions.php:683 core/functions/functions.php:985
+msgid "Congo, Democratic Republic"
+msgstr "República Democrática del Congo"
+
+#: core/functions/functions.php:682 core/functions/functions.php:984
+msgid "Congo"
+msgstr "Congo"
+
+#: core/functions/functions.php:681 core/functions/functions.php:983
+msgid "Comoros"
+msgstr "Comoras"
+
+#: core/functions/functions.php:680 core/functions/functions.php:982
+msgid "Colombia"
+msgstr "Colombia"
+
+#: core/functions/functions.php:679 core/functions/functions.php:981
+msgid "Cocos (Keeling) Islands"
+msgstr "Islas Cocos"
+
+#: core/functions/functions.php:678 core/functions/functions.php:980
+msgid "Christmas Island"
+msgstr "Isla de Navidad"
+
+#: core/functions/functions.php:677 core/functions/functions.php:979
+msgid "China"
+msgstr "China"
+
+#: core/functions/functions.php:676 core/functions/functions.php:978
+msgid "Chile"
+msgstr "Chile"
+
+#: core/functions/functions.php:675 core/functions/functions.php:977
+msgid "Chad"
+msgstr "Chad"
+
+#: core/functions/functions.php:674 core/functions/functions.php:976
+msgid "Central African Republic"
+msgstr "República Centroafricana"
+
+#: core/functions/functions.php:673 core/functions/functions.php:975
+msgid "Cayman Islands"
+msgstr "Islas Caimán"
+
+#: core/functions/functions.php:672 core/functions/functions.php:974
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: core/functions/functions.php:671 core/functions/functions.php:973
+msgid "Canada"
+msgstr "Canadá"
+
+#: core/functions/functions.php:670 core/functions/functions.php:972
+msgid "Cameroon"
+msgstr "Camerún"
+
+#: core/functions/functions.php:669 core/functions/functions.php:971
+msgid "Cambodia"
+msgstr "Camboya"
+
+#: core/functions/functions.php:668 core/functions/functions.php:970
+msgid "Burundi"
+msgstr "Burundi"
+
+#: core/functions/functions.php:667 core/functions/functions.php:969
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: core/functions/functions.php:666 core/functions/functions.php:968
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: core/functions/functions.php:665 core/functions/functions.php:967
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: core/functions/functions.php:664 core/functions/functions.php:966
+msgid "British Indian Ocean Territory"
+msgstr "Territorio Británico del Océano Índico"
+
+#: core/functions/functions.php:663 core/functions/functions.php:965
+msgid "Brazil"
+msgstr "Brasil"
+
+#: core/functions/functions.php:662 core/functions/functions.php:964
+msgid "Bouvet Island"
+msgstr "Isla Bouvet"
+
+#: core/functions/functions.php:661 core/functions/functions.php:963
+msgid "Botswana"
+msgstr "Botswana"
+
+#: core/functions/functions.php:660 core/functions/functions.php:962
+msgid "Bosnia And Herzegovina"
+msgstr "Bosnia y Herzegovina"
+
+#: core/functions/functions.php:659 core/functions/functions.php:961
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: core/functions/functions.php:658 core/functions/functions.php:960
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: core/functions/functions.php:657 core/functions/functions.php:959
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: core/functions/functions.php:656 core/functions/functions.php:958
+msgid "Benin"
+msgstr "Benin"
+
+#: core/functions/functions.php:655 core/functions/functions.php:957
+msgid "Belize"
+msgstr "Belize"
+
+#: core/functions/functions.php:654 core/functions/functions.php:956
+msgid "Belgium"
+msgstr "Bélgica"
+
+#: core/functions/functions.php:653 core/functions/functions.php:955
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+#: core/functions/functions.php:652 core/functions/functions.php:954
+msgid "Barbados"
+msgstr "Barbados"
+
+#: core/functions/functions.php:651 core/functions/functions.php:953
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: core/functions/functions.php:650 core/functions/functions.php:952
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: core/functions/functions.php:649 core/functions/functions.php:951
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: core/functions/functions.php:648 core/functions/functions.php:950
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: core/functions/functions.php:647 core/functions/functions.php:949
+msgid "Austria"
+msgstr "Austria"
+
+#: core/functions/functions.php:646 core/functions/functions.php:948
+msgid "Australia"
+msgstr "Australia"
+
+#: core/functions/functions.php:645 core/functions/functions.php:947
+msgid "Aruba"
+msgstr "Aruba"
+
+#: core/functions/functions.php:644 core/functions/functions.php:946
+msgid "Armenia"
+msgstr "Armenia"
+
+#: core/functions/functions.php:643 core/functions/functions.php:945
+msgid "Argentina"
+msgstr "Argentina"
+
+#: core/functions/functions.php:642 core/functions/functions.php:944
+msgid "Antigua And Barbuda"
+msgstr "Antigua y Barbuda"
+
+#: core/functions/functions.php:641 core/functions/functions.php:943
+msgid "Antarctica"
+msgstr "Antártida"
+
+#: core/functions/functions.php:640 core/functions/functions.php:942
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: core/functions/functions.php:639 core/functions/functions.php:941
+msgid "Angola"
+msgstr "Angola"
+
+#: core/functions/functions.php:638 core/functions/functions.php:940
+msgid "Andorra"
+msgstr "Andorra"
+
+#: core/functions/functions.php:637 core/functions/functions.php:939
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: core/functions/functions.php:636 core/functions/functions.php:938
+msgid "Algeria"
+msgstr "Algeria"
+
+#: core/functions/functions.php:635 core/functions/functions.php:937
+msgid "Albania"
+msgstr "Albania"
+
+#: core/functions/functions.php:634 core/functions/functions.php:936
+msgid "Aland Islands"
+msgstr "Islas Aland"
+
+#: core/functions/functions.php:633 core/functions/functions.php:935
+msgid "Afghanistan"
+msgstr "Afganistán"
+
+#: core/functions/functions.php:626
+#: core/pages/setting-options/frontend-settings.php:30
+msgid "Shipping City"
+msgstr "Ciudad de Envío"
+
+#: core/functions/functions.php:620
+msgid "Full Name"
+msgstr "Nombre y apellidos"
+
+#: core/functions/functions.php:613
+#: core/pages/setting-options/advanced-settings.php:9
+msgid "Self-employed"
+msgstr "Trabajador por cuenta propia"
+
+#: core/functions/functions.php:612
+#: core/pages/setting-options/advanced-settings.php:8
+msgid "Business"
+msgstr "Negocios"
+
+#: core/functions/functions.php:611
+#: core/pages/setting-options/advanced-settings.php:7
+msgid "Private User"
+msgstr "Particular"
+
+#: core/functions/functions.php:598
+msgid "The order number is"
+msgstr "El número de pedido es"
+
+#: core/functions/functions.php:568
+msgid "There was an error"
+msgstr "Se ha producido un error"
+
+#: core/functions/functions.php:513
+msgid "Thank you for your purchase"
+msgstr "Gracias por tu compra"
+
+#: core/functions/functions.php:319
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+#: core/cpt/orders.php:334
+msgid "Shipping Details"
+msgstr "Detalles de envío"
+
+#: core/cpt/orders.php:327 core/cpt/orders.php:350
+msgid "Phone: "
+msgstr "Teléfono: "
+
+#: core/cpt/orders.php:324 core/cpt/orders.php:347
+msgid "Email: "
+msgstr "Correo electrónico: "
+
+#: core/cpt/orders.php:315 core/cpt/orders.php:338
+msgid "Adress:  "
+msgstr "Dirección: "
+
+#: core/cpt/orders.php:311
+msgid "Billing Details"
+msgstr "Detalles de facturación"
+
+#: core/cpt/orders.php:158
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: core/cpt/orders.php:157
+msgid "Customer Name"
+msgstr "Nombre del cliente"
+
+#: core/cpt/orders.php:156
+msgid "Product"
+msgstr "Producto"
+
+#: core/cpt/orders.php:154
+msgid "Status"
+msgstr "Estado"
+
+#: core/cpt/orders.php:100
+msgctxt "post status label"
+msgid "Error"
+msgstr "Error"
+
+#: core/cpt/orders.php:88
+msgctxt "post status label"
+msgid "Suspended"
+msgstr "Suspendido"
+
+#: core/cpt/orders.php:76
+msgctxt "post status label"
+msgid "Paid"
+msgstr "Pagado"
+
+#: core/cpt/orders.php:64
+msgctxt "post status label"
+msgid "Pending"
+msgstr "Pendiente"
+
+#: core/cpt/orders.php:33
+msgid "Orders list"
+msgstr "Lista de pedidos"
+
+#: core/cpt/orders.php:31
+msgid "Insert into item"
+msgstr "Insertar dentro de elemento"
+
+#: core/cpt/orders.php:30
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: core/cpt/orders.php:29
+msgid "Remove featured image"
+msgstr "Quitar la imagen destacada"
+
+#: core/cpt/orders.php:28
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: core/cpt/orders.php:27
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: core/cpt/orders.php:26
+msgid "Not found in Trash"
+msgstr "No encontrado en papelera"
+
+#: core/cpt/orders.php:25
+msgid "Not found"
+msgstr "No encontrado"
+
+#: core/cpt/orders.php:24
+msgid "Search Order"
+msgstr "Buscar pedido"
+
+#: core/cpt/orders.php:22 core/cpt/orders.php:23
+msgid "View Order"
+msgstr "Ver pedido"
+
+#: core/cpt/orders.php:21
+msgid "Update Order"
+msgstr "Actualizar Pedido"
+
+#: core/cpt/orders.php:20
+msgid "Edit Order"
+msgstr "Editar Pedido"
+
+#: core/cpt/orders.php:19
+msgid "New Order"
+msgstr "Nuevo pedido"
+
+#: core/cpt/orders.php:18
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: core/cpt/orders.php:17
+msgid "Add New Order"
+msgstr "Agregar nuevo pedido"
+
+#: core/cpt/orders.php:16
+msgid "All orders"
+msgstr "Todos los pedidos"
+
+#: core/cpt/orders.php:12 core/menu/loader-menu.php:30
+#: core/menu/loader-menu.php:31
+msgid "Orders"
+msgstr "Pedidos"
+
+#: core/cpt/orders.php:10
+msgctxt "Post Type Singular Name"
+msgid "Order"
+msgstr "Pedido"
+
+#: core/cpt/orders.php:9
+msgctxt "Post Type General Name"
+msgid "Orders"
+msgstr "Pedidos"
+
+#: core/functions/functions.php:569
+msgid "The error was"
+msgstr "El error ha sido"
+
+#: core/functions/functions.php:596
+msgid "Wrong hash, the order has been suspended"
+msgstr "Código incorrecto, el pedido ha sido supendido"
+
+#: core/functions/functions.php:597
+msgid "Please contact with us if you think that this is and error"
+msgstr "Contacta con nosotros si crees que esto es un error"
+
+#: core/functions/functions.php:540
+msgid "We appreciate your patience"
+msgstr "Agradecemos tu paciencia"
+
+#: core/functions/functions.php:539
+msgid "We will contact with you once we check the transaction #"
+msgstr "Nos pondremos en contacto contigo en cuanto comprobemos el # de la transacción"
+
+#: core/functions/functions.php:538
+msgid "We need to check your purchase"
+msgstr "Necesitamos comprobar tu pedido"
+
+#: core/functions/functions.php:515 core/functions/functions.php:541
+#: core/functions/functions.php:571 core/functions/functions.php:599
+msgid "Return to the website"
+msgstr "Volver a la página web"
+
+#: core/functions/functions.php:514
+msgid "Your Order number is #"
+msgstr "Tu número de pedido es #"
+
+#: core/functions/functions.php:325
+msgid "Continue to AddonPayments to Pay"
+msgstr "Continua a AddonPayments para Pay"
+
+#: core/functions/functions.php:213
+msgid "(A Retention will be applied if is needed)"
+msgstr "(Se aplicará una retención si es necesario)"
+
+#: core/functions/functions.php:181 core/functions/functions.php:188
+#: core/functions/functions.php:195 core/functions/functions.php:202
+msgid "Included Tax"
+msgstr "Impuestos incluidos"
+
+#: core/functions/functions.php:88
+msgid "Account deactivated – The AddonPayments account has been suspended. Please contact AddPayments."
+msgstr "Cuenta desactivada – La cuenta de AddonPayments ha sido desactivada. Contacta con AddonPayments."
+
+#: core/functions/functions.php:86
+msgid "Error with AddonPayments systems – Please, try again later."
+msgstr "Error en los sistemas de AddonPayments – Vuelve a intentarlo más tarde."
+
+#: core/functions/functions.php:84
+msgid "Error with bank systems – Please, try again later."
+msgstr "Error en los sistemas del banco – Vuelve a intentarlo más tarde."
+
+#: core/functions/functions.php:81
+msgid "Declined by Bank"
+msgstr "Rechazado por el banco"
+
+#: core/functions/functions.php:79
+msgid "The transaction has been blocked as potentially fraudulent by our fraud management configuration"
+msgstr "La transacción ha sido bloqueada como potencialmente fraudulenta por nuestra configuración de gestión de fraude."
+
+#: core/functions/functions.php:77
+msgid "Card reported lost or stolen."
+msgstr "Tarjeta denunciada como perdida o robada."
+
+#: core/cpt/orders.php:305
+msgid "Details for Order ID #"
+msgstr "Detalles del pedido con ID #"
+
+#: core/cpt/orders.php:297
+msgid "There aren't comments for this order"
+msgstr "No hay comentarios en este pedido"
+
+#: core/cpt/orders.php:159
+msgid "Customer Comments"
+msgstr "Comentarios del cliente"
+
+#: core/cpt/orders.php:114
+msgid "Check AddonPayments (%s)"
+msgid_plural "Check AddonPayments (%s)"
+msgstr[0] "Comprobar AddonPayments (%s)"
+msgstr[1] "Comprobar AddonPayments (%s)"
+
+#: core/cpt/orders.php:112
+msgctxt "post status label"
+msgid "Check AddonPayments"
+msgstr "Comprobar AddonPayments"
+
+#: core/cpt/orders.php:102
+msgid "Error (%s)"
+msgid_plural "Error (%s)"
+msgstr[0] "(%s) error"
+msgstr[1] "(%s) errores"
+
+#: core/cpt/orders.php:90
+msgid "Suspended (%s)"
+msgid_plural "Suspended (%s)"
+msgstr[0] "(%s) suspendido"
+msgstr[1] "(%s) suspendidos"
+
+#: core/cpt/orders.php:78
+msgid "Paid (%s)"
+msgid_plural "Paid (%s)"
+msgstr[0] "(%s) pagado"
+msgstr[1] "(%s) pagados"
+
+#: core/cpt/orders.php:66
+msgid "Pending (%s)"
+msgid_plural "Pending (%s)"
+msgstr[0] "(%s) pendiente"
+msgstr[1] "(%s) pendientes"
+
+#: core/cpt/orders.php:39
+msgid "Orders from AddonPayments"
+msgstr "Pedidos de AddonPayments"
+
+#: core/cpt/orders.php:38 core/cpt/orders.php:155 core/cpt/orders.php:242
+msgid "Order"
+msgstr "Pedido"
+
+#: core/cpt/orders.php:35
+msgid "Filter Orders list"
+msgstr "Filtrar la lista de pedidos"
+
+#: core/cpt/orders.php:34
+msgid "Orders list navigation"
+msgstr "Navegación de lista de pedidos"
+
+#: core/cpt/orders.php:32
+msgid "Uploaded to this Order"
+msgstr "Subido a este pedido"
+
+#: core/cpt/orders.php:15
+msgid "ParentOrder:"
+msgstr "ParentOrder:"
+
+#: core/cpt/orders.php:14
+msgid "Orders Attributes"
+msgstr "Atributos del pedido:"
+
+#: core/cpt/orders.php:13
+msgid "Orders Archives"
+msgstr "Archivo de pedidos"
+
+#: core/cpt/orders.php:11
+msgid "AddonPayments Orders"
+msgstr "Pedidos de AddonPayments"
+
+#: core/functions/functions.php:75
+msgid "Referral to Bank (usually treated as a standard decline for ecommerce systems)"
+msgstr "Hablar con el banco (suele ser el rechazo estándar en los sistemas de ecommerce)"
+
+#: core/functions/functions.php:73
+msgid "Declined by Bank – generally insufficient funds or incorrect card details (e.g. expiry date, card security code)"
+msgstr "Rechazado por el banco – normalmente por saldo insuficiente o detalles incorrectos de la tarjeta (ej. fecha de caducidad, código de seguridad)"
+
+#: core/functions/functions.php:56
+msgid "AddonPayments Error: Tax is active, but you dont set Tax %. Please set it"
+msgstr "Error de AddonPayments: Los impuestos están activos pero no has configurado el % de impuestos. Configúralo, por favor."
+
+#: core/functions/functions.php:43
+msgid "AddonPayments Error: Retention is active, but you dont set Retention %. Please set it"
+msgstr "Error de AddonPayments: La retención está activa pero no has configurado el % de retención. Configúralo, por favor."
+
+#: core/cpt/orders.php:355
+msgid "Customer notes about Order: "
+msgstr "Notas del cliente sobre el pedido:"
